@@ -4,7 +4,7 @@ pragma solidity ^0.8.9;
 
 /*
 
-www.aimac-token.x y z
+www.aimac-token.xyz
 t.me/aimac_erc
 x.com/aimac_erc
 
